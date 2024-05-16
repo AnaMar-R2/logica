@@ -68,7 +68,7 @@ function App() {
       </div>
       <h2>Mapa Mixto sobre la Lógica</h2>
       <div>
-        <img src="./../public/Mapa.png" alt="mapa" />
+        <img src="./assets/Mapa.png" alt="mapa" />
       </div>
       <footer className='footer'>
         <p>Elaborado por <strong>Ana Maria Ruiz ❤️</strong> </p>
